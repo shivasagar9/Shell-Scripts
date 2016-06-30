@@ -1,5 +1,9 @@
 #!/usr/bin/sh
 
+# Script by Shiva Sagar.
+# Script to add two integers.
+# How to run: "./script_addif [first integer] [second integer]"
+
 if [ $# -ne 2 ]; then
 echo "Usage: add [first integer] [second interger]"
 else
