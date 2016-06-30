@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 
-# Script by Shiva Sagar.
-# Script to add two integers.
+# Script by Shiva Sagar (shivasagar9@github.com)
+# Script to add two integers
 # How to run: "./script_addif [first integer] [second integer]"
 
 if [ $# -ne 2 ]; then
