@@ -1,5 +1,8 @@
-p
 #!/usr/bin/sh
+
+# This Script is written by Shiva Sagar (shivasagar9@github.com)
+# Script to perform calculations
+# How to RUN: "./script_expremenu.sh"
 
 echo "Choose an operation to be performed [1, 2, 3, 4, 5, 6, or 7]:"
 echo "1. Addition"

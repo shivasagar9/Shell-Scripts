@@ -1,5 +1,8 @@
 #!/usr/bin/sh
-#The script allows you to find files containing word or filename given by user.
+
+# This Script is written by Shiva Sagar (shivasagar9@github.com)
+# How to RUN: "./script_search.sh"
+# The script allows you to find files containing word or filename given by user.
 
 echo "Enter a filename:"
 read f

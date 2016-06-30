@@ -1,6 +1,8 @@
 #!/usr/bin/sh
-#This scrip is written by Shiva.
-#This is the script for performing arithmetic operations.
+
+# This Script is written by Shiva Sagar (shivasagar9@github.com)
+# Script to display arithmetic results
+# How to RUN: "./script_expr.sh"
 
 echo "Input values A and B for results"
 read A B
